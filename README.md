@@ -50,12 +50,15 @@
 
 
 ## 📫 Contact Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🐙 GitHub: https://github.com/YOUR_USERNAME
+- 📧 Email: psubhransubehera@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/priyabrata-subhransu-behera-a3992a369/
+- 🐙 GitHub: https://github.com/Priyabratasubhransubehera
 - 🌐 Portfolio URL : [https://69c81666e922d98aa012bb8b--magnificent-cheesecake-571e9e.netlify.app/]
 
 ---
 
 ## ⚡ Fun Fact
 > I love turning ideas into real-world projects 🚀
+
+
+Thank You ...
